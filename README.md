@@ -9,5 +9,5 @@ The goal of this project is to utilize Explainable Artificial Intelligence (XAI)
 [Machine Learning for Automatic Test Pattern Generation
 ](https://github.com/lzzh97/NN-for-ATPG)
 
-Explainable Power-Grid Analysis and Optimization
+Explainable Power-Grid Analysis and Optimization (coming soon)
 
