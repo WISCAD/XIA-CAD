@@ -12,6 +12,7 @@ The goal of this project is to utilize Explainable Artificial Intelligence (XAI)
 [Explainable Power-Grid Analysis and Optimization](https://github.com/lzzh97/Static-IR-Drop-Prediction)
 
 **Related Publications:**
+
 Static IR Drop Prediction with Limited Data from Real Designs
 Lizi Zhang, Azadeh Davoodi
 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)  ·  20 Jan 2025
