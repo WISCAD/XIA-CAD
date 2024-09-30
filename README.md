@@ -13,14 +13,8 @@ The goal of this project is to utilize Explainable Artificial Intelligence (XAI)
 
 **Related Publications:**
 
-Static IR Drop Prediction with Limited Data from Real Designs
-Lizi Zhang, Azadeh Davoodi
-IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)  ·  20 Jan 2025
+Lizi Zhang, Azadeh Davoodi, "Static IR Drop Prediction with Limited Data from Real Designs", IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)  ·  20 Jan 2025
 
-Efficient and Effective Neural Networks for Automatic Test Pattern Generation
-Lizi Zhang, Azadeh Davoodi
-Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD  ·  09 Sep 2024  ·  doi:10.1145/3670474.3685939
+Lizi Zhang, Azadeh Davoodi, "Efficient and Effective Neural Networks for Automatic Test Pattern Generation", Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD  ·  09 Sep 2024  ·  doi:10.1145/3670474.3685939
 
-Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability
-Lizi Zhang, Azadeh Davoodi
-arXiv  ·  06 Aug 2024  ·  arXiv:2408.03292v1
+Lizi Zhang, Azadeh Davoodi, "Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability", arXiv  ·  06 Aug 2024  ·  arXiv:2408.03292v1
